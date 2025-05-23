@@ -24,3 +24,9 @@ traps/obstacles
 walls
 ground
 cupboards, vents, under fridge, hidey holes
+
+
+
+
+
+
