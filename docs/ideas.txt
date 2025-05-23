@@ -1,0 +1,26 @@
+IDEAS:
+
+
+
+rat starts at start/goal.
+get cheese and bring it back.
+lights on means that people can see you and get you very fast.
+stationary physical traps and gas and get you even while lights are off.
+people will attempt to fix lights and traps if sabotaged.
+cats are super fast and deadly, can smell mice, prowl (keeps you from camping).
+hidey holes and vents let you access sabotage locations and hide during lights.
+after timer ends, extermination van pulls up and game becomes nearly impossible 
+    (very good at killing, gas vents and hidey holes, etc.)
+
+
+
+rat/player
+start/goal
+cheese
+traps/obstacles
+    lights (sabotage wires, makes people see you, dangerous)
+    people (kill, run, and fix traps)
+    cats (fast, lethal)
+walls
+ground
+cupboards, vents, under fridge, hidey holes
