@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="LAFB9-h56CXM5LJl_jGw" name="Page-1">
-        <mxGraphModel dx="2850" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1425" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -545,10 +545,10 @@
                     <mxGeometry x="230" y="763.5" width="160" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="564" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BACK&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="240" y="1000" width="140" height="30" as="geometry"/>
+                    <mxGeometry x="240" y="1010" width="140" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="565" value="&lt;h2 style=&quot;margin-right: 2px; margin-left: 6px;&quot; data-end=&quot;75&quot; data-start=&quot;54&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 12px; font-weight: normal;&quot;&gt;Infiltrate enemy territory, grab the Cheese, and return it safely to Base. Along the way, disable Traps and Lights to stay hidden from Patrols. Success relies on systematic sabotage&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;align=left;spacing=0;verticalAlign=bottom;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="822" width="160" height="169" as="geometry"/>
+                    <mxGeometry x="230" y="822" width="160" height="178" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
